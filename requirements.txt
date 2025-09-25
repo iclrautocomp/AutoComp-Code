@@ -1,0 +1,17 @@
+# Core ML/DL Libraries
+torch==2.7.0
+torchvision==0.22.0
+transformers==4.57.0.dev0
+datasets==3.6.0
+diffusers
+
+# Evaluation & Modeling
+open-clip-torch==2.32.0
+opencv-python==4.11.0.86
+numpy==1.26.4
+pandas==2.2.3
+
+# Utilities
+tqdm==4.67.1
+wandb==0.19.11
+Pillow==11.2.1
